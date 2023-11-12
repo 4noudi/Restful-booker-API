@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6011b72f-c2e7-46a1-bca9-4f29d95b7f87" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-graphs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-test-example-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-test-example-auth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-test-example-request.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-test-example-setup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-result-test-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-testops-dashboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/allure-testops-test-cases.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/api-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/allure_report.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/allure_testops.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/gradle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/intellij_idea.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/java.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/jenkins.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/junit5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/rest_assured.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/telegram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jenkins-build-page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jenkins-project-page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/telegram-notifications.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XtxUgQMYUYFabsBDVBABThJwVm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.gloomyana.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AuthTest.authFailsIfUserIsDisabledOrLockedOut">
+    <configuration name="AuthTest.authFailsIfUserIsDisabledOrLockedOut" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.gloomyana.tests.AuthTest.authFailsIfUserIsDisabledOrLockedOut&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthTest.authFailsWithEmptyCredentials" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.gloomyana.tests.AuthTest.authFailsWithEmptyCredentials&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthTest.authFailsWithInvalidCredentialsInDifferentFormats" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.gloomyana.tests.AuthTest.authFailsWithInvalidCredentialsInDifferentFormats&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="HealthCheckTest.healthCheckRejectsMissingAuthenticationCredentials" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.gloomyana.tests.HealthCheckTest.healthCheckRejectsMissingAuthenticationCredentials&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="HealthCheckTest.healthCheckRejectsTooManyRequests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.gloomyana.tests.HealthCheckTest.healthCheckRejectsTooManyRequests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AuthTest.authFailsIfUserIsDisabledOrLockedOut" />
+        <item itemvalue="Gradle.AuthTest.authFailsWithInvalidCredentialsInDifferentFormats" />
+        <item itemvalue="Gradle.AuthTest.authFailsWithEmptyCredentials" />
+        <item itemvalue="Gradle.HealthCheckTest.healthCheckRejectsMissingAuthenticationCredentials" />
+        <item itemvalue="Gradle.HealthCheckTest.healthCheckRejectsTooManyRequests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6011b72f-c2e7-46a1-bca9-4f29d95b7f87" name="Changes" comment="" />
+      <created>1699462197221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699462197221</updated>
+      <workItem from="1699462198245" duration="2084000" />
+      <workItem from="1699470163870" duration="601000" />
+      <workItem from="1699471967812" duration="6589000" />
+      <workItem from="1699532124119" duration="65000" />
+      <workItem from="1699532331952" duration="1761000" />
+      <workItem from="1699616633720" duration="490000" />
+      <workItem from="1699617135514" duration="598000" />
+      <workItem from="1699617980986" duration="4044000" />
+      <workItem from="1699654168453" duration="13543000" />
+      <workItem from="1699733696092" duration="1783000" />
+      <workItem from="1699736656044" duration="5000" />
+      <workItem from="1699737064085" duration="140000" />
+      <workItem from="1699793518635" duration="1780000" />
+      <workItem from="1699801028862" duration="1074000" />
+      <workItem from="1699817655343" duration="2290000" />
+      <workItem from="1699820674083" duration="1822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

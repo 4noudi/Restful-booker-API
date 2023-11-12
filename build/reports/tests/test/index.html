@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Test Summary</title>
+<link href="css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Test Summary</h1>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">36</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">17</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">1m10.77s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox failures" id="successRate">
+<div class="percent">52%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Failed tests</a>
+</li>
+<li>
+<a href="#tab1">Packages</a>
+</li>
+<li>
+<a href="#tab2">Classes</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<ul class="linkList">
+<li>
+<a href="classes/ru.gloomyana.tests.AuthTest.html">AuthTest</a>.
+<a href="classes/ru.gloomyana.tests.AuthTest.html#createAuthTokenWithEmptyPassword()">Unsuccessful create a new auth token with empty password</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.AuthTest.html">AuthTest</a>.
+<a href="classes/ru.gloomyana.tests.AuthTest.html#createAuthTokenWithInvalidPassword()">Unsuccessful create a new auth token with invalid password</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.AuthTest.html">AuthTest</a>.
+<a href="classes/ru.gloomyana.tests.AuthTest.html#createAuthTokenWithInvalidUsername()">Unsuccessful create a new auth token with invalid username</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.AuthTest.html">AuthTest</a>.
+<a href="classes/ru.gloomyana.tests.AuthTest.html#makeRequestWithExpiredToken()">Unsuccessful make request with expired token</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.AuthTest.html">AuthTest</a>.
+<a href="classes/ru.gloomyana.tests.AuthTest.html#makeRequestWithReusedToken()">Unsuccessful make request with reused token</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html">CreateAndUpdateBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html#unsuccessfulCreateBookingWithEmptyRequestData()">Unsuccessful create booking with empty request data</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html">CreateAndUpdateBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html#unsuccessfulCreateBookingWithInvalidRequestData()">Unsuccessful create booking with invalid request data</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html">CreateAndUpdateBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html#unsuccessfulUpdateBookingWithEmptyRequestData()">Unsuccessful update booking with empty request data</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html">CreateAndUpdateBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html#unsuccessfulUpdateBookingWithInvalidBookingId()">Unsuccessful update booking with invalid booking id</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html">CreateAndUpdateBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html#unsuccessfulUpdateBookingWithInvalidRequestData()">Unsuccessful update booking with invalid request data</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.DeleteBookingTests.html">DeleteBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.DeleteBookingTests.html#deleteBookingThatHasAlreadyBeenDeletedReturns404()">Delete request for booking that has already been deleted returns 404</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.GetBookingTests.html">GetBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.GetBookingTests.html#getBookingForBookingThatHasBeenDeletedReturns404()">Get booking request for booking that has been deleted returns 404</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.GetBookingTests.html">GetBookingTests</a>.
+<a href="classes/ru.gloomyana.tests.GetBookingTests.html#getBookingWithFilterParameterByCheckinReturnsCorrectResults()">Get booking request with filter parameter by checkin returns correct results</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html">HealthCheckTest</a>.
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html#healthCheckRejectsInvalidHttpMethod()">Health check endpoint should reject invalid HTTP method</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html">HealthCheckTest</a>.
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html#healthCheckRejectsMissingAuthenticationCredentials()">Health check endpoint should reject missing authentication credentials</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html">HealthCheckTest</a>.
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html#healthCheckRejectsTooManyRequests()">Health check endpoint should reject too many requests</a>
+</li>
+<li>
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html">HealthCheckTest</a>.
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html#healthCheckReturns500OnInternalServerError()">Health check endpoint should return 500 error if there is an internal server error</a>
+</li>
+</ul>
+</div>
+<div id="tab1" class="tab">
+<h2>Packages</h2>
+<table>
+<thead>
+<tr>
+<th>Package</th>
+<th>Tests</th>
+<th>Failures</th>
+<th>Ignored</th>
+<th>Duration</th>
+<th>Success rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="failures">
+<a href="packages/ru.gloomyana.tests.html">ru.gloomyana.tests</a>
+</td>
+<td>36</td>
+<td>17</td>
+<td>0</td>
+<td>1m10.77s</td>
+<td class="failures">52%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="tab2" class="tab">
+<h2>Classes</h2>
+<table>
+<thead>
+<tr>
+<th>Class</th>
+<th>Tests</th>
+<th>Failures</th>
+<th>Ignored</th>
+<th>Duration</th>
+<th>Success rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="failures">
+<a href="classes/ru.gloomyana.tests.AuthTest.html">ru.gloomyana.tests.AuthTest</a>
+</td>
+<td>7</td>
+<td>5</td>
+<td>0</td>
+<td>21.875s</td>
+<td class="failures">28%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/ru.gloomyana.tests.CreateAndUpdateBookingTests.html">ru.gloomyana.tests.CreateAndUpdateBookingTests</a>
+</td>
+<td>7</td>
+<td>5</td>
+<td>0</td>
+<td>11.866s</td>
+<td class="failures">28%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/ru.gloomyana.tests.DeleteBookingTests.html">ru.gloomyana.tests.DeleteBookingTests</a>
+</td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>8.433s</td>
+<td class="failures">75%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/ru.gloomyana.tests.GetBookingTests.html">ru.gloomyana.tests.GetBookingTests</a>
+</td>
+<td>12</td>
+<td>2</td>
+<td>0</td>
+<td>15.168s</td>
+<td class="failures">83%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/ru.gloomyana.tests.HealthCheckTest.html">ru.gloomyana.tests.HealthCheckTest</a>
+</td>
+<td>6</td>
+<td>4</td>
+<td>0</td>
+<td>13.428s</td>
+<td class="failures">33%</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 8.2</a> at Nov 12, 2023, 5:03:11 PM</p>
+</div>
+</div>
+</body>
+</html>
